@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Collage_DataBase_Management">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Collage_DataBase_Management.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
